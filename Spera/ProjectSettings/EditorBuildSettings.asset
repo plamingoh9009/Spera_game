@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/\uAC8C\uC784\uC52C\uC815\uB9AC/LoginScene/LobbyScene.unity"
+    guid: 6570ede311470874f818cffec23dc7ce
+  - enabled: 1
+    path: "Assets/\uAC8C\uC784\uC52C\uC815\uB9AC/LodingScene/LodingScene.unity"
+    guid: 3a213bc5d3cdbd64791092891066243e
+  - enabled: 1
+    path: "Assets/\uAC8C\uC784\uC52C\uC815\uB9AC/GameScene/cityJack.unity"
+    guid: 2e9828a321f86dd4d8568c1d5de61c20
+  m_configObjects: {}

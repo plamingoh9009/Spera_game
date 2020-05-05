@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Fence
+  - ItemButton
+  - Shop
+  - CheaserWeapone
+  - Cheaser
+  - FlashLight
+  - CheaserWeapone
+  - Object
+  - ObjectPools
+  - UI
+  - fenceCollision
+  - CheaserSkillUiButton
+  - CheaserSkillUiButton3
+  - CheaserSkillUiButton2
+  - PlayerCollision
+  - PlayerParticle
+  - Missile
+  - PlayerHand
+  - Statue
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - UiTouchField
+  - ParticleSKill1
+  - ParticleSkill2
+  - Cheaser
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
